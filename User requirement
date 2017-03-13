@@ -1,0 +1,26 @@
+Doctal
+Cania, Princess April S.
+Comaling, Jericka Aleli
+Del Rosario, Merichelle L.
+Leones, Dainielle Andrea O.
+Marticio, Maricar M.
+
+User Requirements.
+
+Patient
+1.	Doctal is a web based system that will allow the patient to find a doctor that will help them in their need. 
+2.	The system will provide the user to locate the nearest doctor available in the city. 
+3.	The user can search a doctor by entering the needed specialist and its location or address, in order for the system to find the nearest doctor in the area.  
+4.	User can also reserve the doctor’s appointment only if the doctor is available on the said date. 
+5.	User can also give the doctor feedback and the doctor won’t know who send the feedback. 
+6.	User can see the consultation fees.
+Doctors
+1.	Doctors will approve or not, the reservation of the patient.
+2.	Doctors will send the patients email of acceptation.
+3.	Doctors will receive feedback from the patient.
+Admin
+1.	Admin is the only one who can handle the System Maintenance.
+2.	Admin can see the name of the feedback sender.
+3.	Admin can shut down the system.
+4.	The ability of the patient can be done by the admin as well.
+
