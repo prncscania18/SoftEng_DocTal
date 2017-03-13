@@ -1,0 +1,22 @@
+Doctal
+Cania, Princess April S.
+Comaling, Jericka Aleli
+Del Rosario, Merichelle L.
+Leones, Dainielle Andrea O.
+Marticio, Maricar M.
+
+Non Functional
+
+Admin
+1.	The system must provide all the information to admin.
+2.	The system must show the admin all the name of the doctors.
+3.	The system must show the admin all the location of the doctors.
+4.	The system must show the admin the patient’s name with its feedback.
+Doctors
+1.	The system must provide the doctor the request for reservation of the patient.
+2.	The system must show to the doctors the feedbacks but not the name of the sender.
+Patient
+1.	The system must provide all the list of doctors to the user.
+2.	The system must locate the nearest doctor to the user.
+3.	The system must display the user’s consultation fees.
+
