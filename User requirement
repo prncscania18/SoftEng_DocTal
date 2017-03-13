@@ -14,10 +14,12 @@ Patient
 4.	User can also reserve the doctor’s appointment only if the doctor is available on the said date. 
 5.	User can also give the doctor feedback and the doctor won’t know who send the feedback. 
 6.	User can see the consultation fees.
+
 Doctors
 1.	Doctors will approve or not, the reservation of the patient.
 2.	Doctors will send the patients email of acceptation.
 3.	Doctors will receive feedback from the patient.
+
 Admin
 1.	Admin is the only one who can handle the System Maintenance.
 2.	Admin can see the name of the feedback sender.
