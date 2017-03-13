@@ -13,7 +13,7 @@ Patient
 3.	The user can search a doctor by entering the needed specialist and its location or address, in order for the system to find the nearest doctor in the area.  
 4.	User can also reserve the doctor’s appointment only if the doctor is available on the said date. 
 5.	User can also give the doctor feedback and the doctor won’t know who send the feedback. 
-6.	User can see the consultation fees.
+6.	User can see the consultation fees. 
 
 Doctors
 1.	Doctors will approve or not, the reservation of the patient.
