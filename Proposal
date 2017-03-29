@@ -9,7 +9,7 @@ CS321L Software Engineering Laboratory
  
 
 
-Efficient Doctor Patient Portal	
+DOCTAL: Doctor Patient Portal	
 
 
 
@@ -22,7 +22,7 @@ Cania, Princess April S.
 Marticio, Maricar M.
 
 Class Schedule: 
-Monday 10:00 AM – 1:00 PM
+Monday 10:00 AM â€“ 1:00 PM
 
 
 
@@ -33,23 +33,22 @@ Instructor
 
 
 Introduction
-	In a world constantly growing and expanding, having a health care system to the field of computer is a good approach for hospitals. Technology is constantly improving so a paperless medical record system is more practical and sensible instead of rummaging through papers and losing them or misplacing those important documents. Computers provide an easier way to look up for a patient’s information if a doctor asks for it. Computers allow the patient to grasp a visual perspective of their health. Health care systems could create more advanced way of recording and understanding a patient’s situation. Without computers for the doctor and patient communication, all transactions and interaction must be done through telephone or by the office. Having the health care system will allow the doctor and the patient to stay in contact more often through communication on technology.
+	In a world constantly growing and expanding, having a health care system to the field of computer is a good approach for hospitals. Technology is constantly improving so a paperless medical record system is more practical and sensible instead of rummaging through papers and losing them or misplacing those important documents. Computers provide an easier way to look up for a patientâ€™s information if a doctor asks for it. Computers allow the patient to grasp a visual perspective of their health. Health care systems could create more advanced way of recording and understanding a patientâ€™s situation. Without computers for the doctor and patient communication, all transactions and interaction must be done through telephone or by the office. Having the health care system will allow the doctor and the patient to stay in contact more often through communication on technology.
 	This study proposes on having an efficient doctor-patient portal, wherein patients can book a reservation or make an appointment through doctors online or with the presence of the internet which will both benefit the doctor and the patient.
 Background of the Study
-	Making an appointment to a doctor, especially in a hospital like East Avenue Medical Center where a lot of patients are in need of care seems to be hard. There are a lot of processes that is needed to be done before you can set an appointment to your doctor.
-	By proposing this doctor-patient handling managing system, the doctors will lessen their work and also the patients in booking doctor appointments and viewing of medical progress. 
+	Making an appointment to a doctor, especially in a hospital where a lot of patients are in need of care seems to be hard. There are a lot of processes that is needed to be done before you can set an appointment to your doctor.
+	By proposing this doctor-patient handling managing system, the doctors will lessen their work and also the patients in booking doctor appointments. 
 Scope and Limitation
-	The scope of our system is that it will be able to show the medical history of the patient, it also allows to search for a doctor through categories, name and location. The user can also set for an appointment and will receive a confirmation through e-mail, user can also check the cost of his/her consultation fee and other charges and user can also cancel his/her appointment.
-	The proposed study is limited to the doctors only of East Avenue Medical Center other doctors outside the said hospital has no record in the system, and it is only accessible with the presence of the internet since it will be an Web-Based System. The user also has to wait for 2-3 days before they will receive an email confirmation.
+	The scope of our system is that it will be able to show the medical progress of a doctor, it will also allow search for doctors depending on their specialization and location. The user can also set for an appointment with their chosen doctor and will receive a confirmation through e-mail, user can also check the cost of his/her consultation fee and other charges.
+	The proposed study is limited to those who has internet connection. And only 5 specialization will be used as an example and 2 doctors per specialization.
 
 OBJECTIVES
 	To develop a system that will help the user/patient to know easily who the doctor in charge is and to know immediately the other information that the patient needs to know.
 Specific:
 1.	To help the user to easily find a doctor that suits for her condition/case.
 2.	To lessen their time going to hospital to check if there is an available doctor to check on her/his condition.
-3.	To easily check the background of the user’s information including his/her disease as well as the doctor’s background.
+3.	To easily check the background of the doctor and the achievements they have made..
 Significance of the Study
-Doctors of the East Avenue Medical Center. It allows the doctors in the hospital to manage their booking slots online. At the same time the doctor may view patients medical history even before the patient visits him, it would lessen the time of interview during the appointment since the doctor already know all the basic information of the patient and his history.
-Patients. Appointments can be made online, so there’s no need to go the hospital for the booking of the doctors. Patients will have the privilege of viewing the medical progress of the doctor. A patient also has the freedom of choosing their desired doctor.
+User/Patients. Appointments can be made online, so thereâ€™s no need to go the hospital for the booking of the doctors. Patients will have the privilege of viewing the medical progress of the doctor. A patient also has the freedom of choosing their desired doctor.
 Future Researcher. The outcome of the study may use as a guide to either present researchers or future researchers in developing the same kind of system. This study may be one of the basis that a new theory in learning will arise, source of new knowledge, theories and concept can use to enhance the ability of a researcher.
 
